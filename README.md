@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# zagreus
-Portfolio
-=======
-# Strapi application
+#Strapi Backend
 
-A quick description of your strapi application
->>>>>>> master
+The backend for the vue-app that will hold my portfolio
