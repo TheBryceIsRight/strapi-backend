@@ -15,11 +15,22 @@
     "name": {
       "type": "string"
     },
-    "Blog_description": {
+    "description": {
       "type": "string"
     },
-    "Blog_content": {
+    "position": {
       "type": "string"
+    },
+    "thumbnail": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
     }
   }
 }
