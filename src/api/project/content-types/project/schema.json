@@ -36,6 +36,12 @@
       "type": "integer",
       "required": true,
       "default": 6
+    },
+    "route": {
+      "type": "string",
+      "default": "/",
+      "minLength": 1,
+      "required": true
     }
   }
 }
