@@ -69,7 +69,7 @@
       "type": "text"
     },
     "Description3": {
-      "type": "string"
+      "type": "text"
     },
     "IntroHeadline": {
       "type": "string",
@@ -108,6 +108,101 @@
       "type": "string"
     },
     "Class": {
+      "type": "string"
+    },
+    "Description4": {
+      "type": "text"
+    },
+    "SiteMap": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "UserJourney": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "ResearchSlide": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "StyleGuideLight": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "StyleGuideDark": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "RefinedWireframes": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "HighFidelity": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "SiteMapURL": {
+      "type": "string"
+    },
+    "StyleGuideLightURL": {
+      "type": "string"
+    },
+    "StyleGuideDarkURL": {
+      "type": "string"
+    },
+    "UserJourneyURL": {
+      "type": "string"
+    },
+    "ResearchSlideURL": {
       "type": "string"
     }
   }

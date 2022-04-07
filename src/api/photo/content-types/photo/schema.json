@@ -27,6 +27,15 @@
     "alt": {
       "type": "string",
       "required": true
+    },
+    "caption": {
+      "type": "text"
+    },
+    "url": {
+      "type": "string"
+    },
+    "project": {
+      "type": "string"
     }
   }
 }
