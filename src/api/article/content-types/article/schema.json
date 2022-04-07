@@ -1,0 +1,114 @@
+{
+  "kind": "collectionType",
+  "collectionName": "articles",
+  "info": {
+    "singularName": "article",
+    "pluralName": "articles",
+    "displayName": "Article",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string",
+      "required": true,
+      "minLength": 5
+    },
+    "Role": {
+      "type": "string",
+      "required": true,
+      "default": "UX Designer",
+      "minLength": 5
+    },
+    "Company": {
+      "type": "string",
+      "required": true
+    },
+    "TimeFrame": {
+      "type": "string",
+      "required": true
+    },
+    "TeamStyle": {
+      "type": "string",
+      "required": true
+    },
+    "Goals1Headline": {
+      "type": "string",
+      "required": true
+    },
+    "Goals1Description": {
+      "type": "text",
+      "required": true
+    },
+    "Goals2Headline": {
+      "type": "string",
+      "required": true
+    },
+    "Goals2Description": {
+      "type": "text",
+      "required": true
+    },
+    "Goals3Headline": {
+      "type": "string",
+      "required": true
+    },
+    "Goals3Description": {
+      "type": "text",
+      "required": true
+    },
+    "PersonasDescription": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "text"
+    },
+    "Description2": {
+      "type": "text"
+    },
+    "Description3": {
+      "type": "string"
+    },
+    "IntroHeadline": {
+      "type": "string",
+      "required": true
+    },
+    "IntroDescription": {
+      "type": "text",
+      "required": true
+    },
+    "Takeaway1Headline": {
+      "type": "string",
+      "required": true
+    },
+    "Takeaway1Description": {
+      "type": "text",
+      "required": true
+    },
+    "Takeaway2Headline": {
+      "type": "string",
+      "required": true
+    },
+    "Takeaway2Description": {
+      "type": "text",
+      "required": true
+    },
+    "Takeaway3Headline": {
+      "type": "string"
+    },
+    "Takeaway3Description": {
+      "type": "text"
+    },
+    "PrototypeURL": {
+      "type": "string"
+    },
+    "Tools": {
+      "type": "string"
+    },
+    "Class": {
+      "type": "string"
+    }
+  }
+}
