@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_animation_animations",
+  "info": {
+    "displayName": "Animations",
+    "icon": "air-freshener"
+  },
+  "options": {},
+  "attributes": {
+    "URL1": {
+      "type": "string"
+    },
+    "URL2": {
+      "type": "string"
+    },
+    "URL3": {
+      "type": "string"
+    }
+  }
+}

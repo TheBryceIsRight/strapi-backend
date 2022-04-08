@@ -1,0 +1,40 @@
+{
+  "collectionName": "components_hifi_high_fis",
+  "info": {
+    "displayName": "HighFi",
+    "icon": "arrow-up"
+  },
+  "options": {},
+  "attributes": {
+    "hifi01URL": {
+      "type": "string"
+    },
+    "hifi02URL": {
+      "type": "string"
+    },
+    "hifi03URL": {
+      "type": "string"
+    },
+    "hifi04URL": {
+      "type": "string"
+    },
+    "hifi05URL": {
+      "type": "string"
+    },
+    "hifi06URL": {
+      "type": "string"
+    },
+    "hifi07URL": {
+      "type": "string"
+    },
+    "hifi08URL": {
+      "type": "string"
+    },
+    "hifi09URL": {
+      "type": "string"
+    },
+    "hifi10URL": {
+      "type": "string"
+    }
+  }
+}

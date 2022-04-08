@@ -1,0 +1,40 @@
+{
+  "collectionName": "components_low_fi_low_fis",
+  "info": {
+    "displayName": "LowFi",
+    "icon": "arrow-down"
+  },
+  "options": {},
+  "attributes": {
+    "lowfi01URL": {
+      "type": "string"
+    },
+    "lowfi02URL": {
+      "type": "string"
+    },
+    "lowfi03URL": {
+      "type": "string"
+    },
+    "lowfi04URL": {
+      "type": "string"
+    },
+    "lowfi05URL": {
+      "type": "string"
+    },
+    "lowfi06URL": {
+      "type": "string"
+    },
+    "lowfi07URL": {
+      "type": "string"
+    },
+    "lowfi08URL": {
+      "type": "string"
+    },
+    "lowfi09URL": {
+      "type": "string"
+    },
+    "lowfi10URL": {
+      "type": "string"
+    }
+  }
+}

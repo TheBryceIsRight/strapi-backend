@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_persona_personas",
+  "info": {
+    "displayName": "Persona",
+    "icon": "child",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Persona1URL": {
+      "type": "string"
+    },
+    "Persona2URL": {
+      "type": "string"
+    },
+    "Persona3URL": {
+      "type": "string"
+    },
+    "Persona4URL": {
+      "type": "string"
+    },
+    "Persona5URL": {
+      "type": "string"
+    }
+  }
+}

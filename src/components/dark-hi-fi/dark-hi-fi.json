@@ -1,0 +1,40 @@
+{
+  "collectionName": "components_dark_hi_fi_dark_hi_fis",
+  "info": {
+    "displayName": "DarkHiFi",
+    "icon": "cube"
+  },
+  "options": {},
+  "attributes": {
+    "URL1": {
+      "type": "string"
+    },
+    "URL2": {
+      "type": "string"
+    },
+    "URL3": {
+      "type": "string"
+    },
+    "URL4": {
+      "type": "string"
+    },
+    "URL5": {
+      "type": "string"
+    },
+    "URL6": {
+      "type": "string"
+    },
+    "URL7": {
+      "type": "string"
+    },
+    "URL8": {
+      "type": "string"
+    },
+    "URL9": {
+      "type": "string"
+    },
+    "URL10": {
+      "type": "string"
+    }
+  }
+}

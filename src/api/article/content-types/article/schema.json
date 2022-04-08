@@ -206,14 +206,15 @@
       "type": "string"
     },
     "LowFi1": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
       "allowedTypes": [
         "images",
         "files",
         "videos",
         "audios"
-      ],
-      "type": "media",
-      "multiple": false
+      ]
     },
     "LowFiURL": {
       "type": "string"
@@ -222,14 +223,50 @@
       "type": "string"
     },
     "LowFi2": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
       "allowedTypes": [
         "images",
         "files",
         "videos",
         "audios"
-      ],
+      ]
+    },
+    "Personas": {
       "type": "media",
-      "multiple": true
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "Persona": {
+      "displayName": "Persona",
+      "type": "component",
+      "repeatable": false,
+      "component": "persona.persona"
+    },
+    "HighFi": {
+      "displayName": "HighFi",
+      "type": "component",
+      "repeatable": false,
+      "component": "hifi.high-fi"
+    },
+    "LowFi": {
+      "type": "component",
+      "repeatable": false,
+      "component": "low-fi.low-fi"
+    },
+    "Animation": {
+      "type": "component",
+      "repeatable": false,
+      "component": "animation.animations"
+    },
+    "Dark": {
+      "type": "component",
+      "repeatable": false,
+      "component": "dark-hi-fi.dark-hi-fi"
     }
   }
 }
