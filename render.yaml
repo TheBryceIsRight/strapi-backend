@@ -17,7 +17,7 @@ services:
         value: production
       - key: DATABASE_FILENAME
         value: /data/strapi.db
-      - key: JWT_SECRET
+      - key: JWT_SECRETyarn 
         generateValue: true
       - key: ADMIN_JWT_SECRET
         generateValue: true
