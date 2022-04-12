@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2022-04-12T01:53:30.419Z"
+    "x-generation-date": "2022-04-12T15:10:48.742Z"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -29177,6 +29177,9 @@
                               "LogoURL": {
                                 "type": "string"
                               },
+                              "Order": {
+                                "type": "integer"
+                              },
                               "createdAt": {
                                 "type": "string",
                                 "format": "date-time"
@@ -30145,6 +30148,9 @@
                             "LogoURL": {
                               "type": "string"
                             },
+                            "Order": {
+                              "type": "integer"
+                            },
                             "createdAt": {
                               "type": "string",
                               "format": "date-time"
@@ -30639,6 +30645,9 @@
                       },
                       "route": {
                         "type": "string"
+                      },
+                      "Order": {
+                        "type": "integer"
                       }
                     }
                   }
@@ -31054,6 +31063,9 @@
                             },
                             "LogoURL": {
                               "type": "string"
+                            },
+                            "Order": {
+                              "type": "integer"
                             },
                             "createdAt": {
                               "type": "string",
@@ -31932,6 +31944,9 @@
                             "LogoURL": {
                               "type": "string"
                             },
+                            "Order": {
+                              "type": "integer"
+                            },
                             "createdAt": {
                               "type": "string",
                               "format": "date-time"
@@ -32440,6 +32455,9 @@
                       },
                       "LogoURL": {
                         "type": "string"
+                      },
+                      "Order": {
+                        "type": "integer"
                       },
                       "createdAt": {
                         "type": "string",

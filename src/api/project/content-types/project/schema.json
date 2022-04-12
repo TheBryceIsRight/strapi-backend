@@ -45,6 +45,10 @@
     },
     "LogoURL": {
       "type": "string"
+    },
+    "Order": {
+      "type": "integer",
+      "required": true
     }
   }
 }
