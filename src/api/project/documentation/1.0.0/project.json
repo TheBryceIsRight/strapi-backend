@@ -411,6 +411,9 @@
                               "Order": {
                                 "type": "integer"
                               },
+                              "Alt": {
+                                "type": "string"
+                              },
                               "createdAt": {
                                 "type": "string",
                                 "format": "date-time"
@@ -1382,6 +1385,9 @@
                             "Order": {
                               "type": "integer"
                             },
+                            "Alt": {
+                              "type": "string"
+                            },
                             "createdAt": {
                               "type": "string",
                               "format": "date-time"
@@ -2298,6 +2304,9 @@
                             "Order": {
                               "type": "integer"
                             },
+                            "Alt": {
+                              "type": "string"
+                            },
                             "createdAt": {
                               "type": "string",
                               "format": "date-time"
@@ -3178,6 +3187,9 @@
                             "Order": {
                               "type": "integer"
                             },
+                            "Alt": {
+                              "type": "string"
+                            },
                             "createdAt": {
                               "type": "string",
                               "format": "date-time"
@@ -3689,6 +3701,9 @@
                       },
                       "Order": {
                         "type": "integer"
+                      },
+                      "Alt": {
+                        "type": "string"
                       },
                       "createdAt": {
                         "type": "string",

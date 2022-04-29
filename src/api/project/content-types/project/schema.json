@@ -49,6 +49,9 @@
     "Order": {
       "type": "integer",
       "required": true
+    },
+    "Alt": {
+      "type": "string"
     }
   }
 }

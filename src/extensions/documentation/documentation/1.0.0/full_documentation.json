@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2022-04-14T18:07:25.591Z"
+    "x-generation-date": "2022-04-29T19:38:13.297Z"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -29180,6 +29180,9 @@
                               "Order": {
                                 "type": "integer"
                               },
+                              "Alt": {
+                                "type": "string"
+                              },
                               "createdAt": {
                                 "type": "string",
                                 "format": "date-time"
@@ -30151,6 +30154,9 @@
                             "Order": {
                               "type": "integer"
                             },
+                            "Alt": {
+                              "type": "string"
+                            },
                             "createdAt": {
                               "type": "string",
                               "format": "date-time"
@@ -31067,6 +31073,9 @@
                             "Order": {
                               "type": "integer"
                             },
+                            "Alt": {
+                              "type": "string"
+                            },
                             "createdAt": {
                               "type": "string",
                               "format": "date-time"
@@ -31947,6 +31956,9 @@
                             "Order": {
                               "type": "integer"
                             },
+                            "Alt": {
+                              "type": "string"
+                            },
                             "createdAt": {
                               "type": "string",
                               "format": "date-time"
@@ -32458,6 +32470,9 @@
                       },
                       "Order": {
                         "type": "integer"
+                      },
+                      "Alt": {
+                        "type": "string"
                       },
                       "createdAt": {
                         "type": "string",
