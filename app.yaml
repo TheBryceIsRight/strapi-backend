@@ -5,10 +5,10 @@ instance_class: F2
 env_variables:
   HOST: '0.0.0.0'
   NODE_ENV: 'production'
-  DATABASE_NAME: 'postgres'
+  DATABASE_NAME: 'strapi'
   DATABASE_USERNAME: 'bryce'
   DATABASE_PASSWORD: 'WithGr34tPow@r'
-  INSTANCE_CONNECTION_NAME: 'design-portfolio-bryce-watson:us-east1:postgres'
+  INSTANCE_CONNECTION_NAME: 'design-portfolio-bryce-watson:us-east1:strapi'
 
 beta_settings:
-  cloud_sql_instances: 'design-portfolio-bryce-watson:us-east1:postgres'
+  cloud_sql_instances: 'design-portfolio-bryce-watson:us-east1:strapi'
