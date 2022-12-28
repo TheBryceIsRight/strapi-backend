@@ -2,7 +2,7 @@
   "name": "portfolio-backend",
   "private": true,
   "version": "1.0.0",
-  "description": "A Strapi application",
+  "description": "Back end for portfolio",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
@@ -20,7 +20,7 @@
     "sqlite3": "5.0.2"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Bryce Watson"
   },
   "strapi": {
     "uuid": "3aaa2cb5-07cf-45b4-b9b9-9ab0903e54e7"
