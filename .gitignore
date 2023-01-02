@@ -113,3 +113,4 @@ build
 .strapi-updater.json
 app.yaml
 .gitignore
+.env.production
